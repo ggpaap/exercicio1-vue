@@ -2,7 +2,6 @@
 export default {};
 </script>
 <template>
-  <aside id="sidenav">
-  </aside>
+  <footer id="footer">Rodapé</footer>
 </template>
 <style></style>

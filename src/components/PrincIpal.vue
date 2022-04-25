@@ -2,7 +2,6 @@
 export default {};
 </script>
 <template>
-  <aside id="sidenav">
-  </aside>
+  <main id="content">Principal</main>
 </template>
 <style></style>
